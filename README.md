@@ -7,7 +7,7 @@ Notice that meeting rooms are global and any valid authorization parameters (reg
 
 ### Usage
 ```
-./check_meeting_space.sh SAPISIDHASH x-goog-api-key x-goog-authuser __Secure-3PSID __Secure-3PAPISID <b> room_code <b>
+./check_meeting_space.sh SAPISIDHASH x-goog-api-key x-goog-authuser __Secure-3PSID __Secure-3PAPISID room_code
 ```
 
 ### Output
