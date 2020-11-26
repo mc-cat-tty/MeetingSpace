@@ -2,7 +2,7 @@
 Meeting space checker and generator for Google Meet
 
 ## check_meeting_space.sh
-Launch this script to check if given room_code is valid or not (whether it exists or not)
+Launch this script to check if given _room_code_ is valid or not (whether it exists or not)
 Notice that meeting rooms are global and any valid authorization parameters (regardless of account) are suitable
 
 ### Usage
