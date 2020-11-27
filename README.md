@@ -12,6 +12,9 @@ Notice that meeting rooms are global and any valid authorization parameters (reg
 
 ### Output
 POST response HTTP status code
-- 200 -> meeting space exists
-- 404 -> meeting space doesn't exist
-- 400 -> bad request, the code is not valid
+
+| Response Status Code |               Meaning              |
+|:--------------------:|:----------------------------------:|
+|          200         | Meeting space exists               |
+|          404         | Meeting space doesn't exist        |
+|          400         | Bad request, the code is not valid |
